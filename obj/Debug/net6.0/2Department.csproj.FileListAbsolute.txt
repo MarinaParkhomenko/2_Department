@@ -1,0 +1,5 @@
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\2Department\obj\Debug\net6.0\2Department.csproj.AssemblyReference.cache
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\2Department\obj\Debug\net6.0\2Department.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\2Department\obj\Debug\net6.0\2Department.AssemblyInfoInputs.cache
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\2Department\obj\Debug\net6.0\2Department.AssemblyInfo.cs
+C:\Users\Maryna Parkhomenko\source\repos\proga_labs\2Department\obj\Debug\net6.0\2Department.csproj.CoreCompileInputs.cache
